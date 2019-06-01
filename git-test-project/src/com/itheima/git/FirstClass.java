@@ -9,6 +9,7 @@ public class FirstClass {
         }
         //hello test
         //2再次修改
+        System.out.println(i);
     }
     public void test(){
         int a=0;
